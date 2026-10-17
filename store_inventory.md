@@ -69,20 +69,19 @@ Checked Oct 16, 2026 ·
 | # | Line | Model | Frame | Lens | Lens Type | Size | Qty | Price (CAD) | Price Source | Line Total (CAD) | BBY Web Code | UPC | Notes |
 |---:|---|---|---|---|---|---|---:|---:|---|---:|---|---|---|
 | 31 | Meta | Adventurer | Classic Black | Brown | Sun | Standard | 2 | $409.99 | Confirmed | $819.98 | 19896393 | 0815820028871 | Case: Black |
-| 32 | Meta | Adventurer | Classic Black | Brown | Sun | Large | 1 | $409.99 | Confirmed | $409.99 | 19896392 | 0815820028956 | Case: Black |
-| 33 | Meta | Adventurer | Classic Black | Grey | Polarized | Standard | 2 | $449.99 | Confirmed | $899.98 | 19896388 | 0815820028918 | Case: Black |
-| 34 | Meta | Adventurer | Classic Tortoise | Brown | Sun | Standard | 2 | $409.99 | Confirmed | $819.98 | 19896391 | 0815820028888 | Case: Mocha; $409.99 shelf tag seen in photo |
-| 35 | Meta | Adventurer | Classic Tortoise | Clear | Clear | Standard | 2 | $409.99 | Confirmed | $819.98 | 19896387 | 0815820028864 | Case: Mocha |
+| 32 | Meta | Adventurer | Classic Black | Grey | Polarized | Standard | 2 | $449.99 | Confirmed | $899.98 | 19896388 | 0815820028918 | Case: Black |
+| 33 | Meta | Adventurer | Classic Tortoise | Brown | Sun | Standard | 2 | $409.99 | Confirmed | $819.98 | 19896391 | 0815820028888 | Case: Mocha; $409.99 shelf tag seen in photo |
+| 34 | Meta | Adventurer | Classic Tortoise | Clear | Clear | Standard | 2 | $409.99 | Confirmed | $819.98 | 19896387 | 0815820028864 | Case: Mocha |
 
 ---
 
 | # | Line | Model | Frame | Lens | Lens Type | Size | Qty | Price (CAD) | Price Source | Line Total (CAD) | BBY Web Code | UPC | Notes |
 |---:|---|---|---|---|---|---|---:|---:|---|---:|---|---|---|
-| 36 | Meta | Fury | Classic Black | Grey | Transitions | Standard | 2 | $519.99 | Confirmed | $1,039.98 | 20074255 | 0815820029069 | Case: Black |
-| 37 | Meta | Fury | Racing Green | Light Blue Atlantic | Tinted | — | 2 | $409.99 | Confirmed | $819.98 | 19896390 | 0815820029038 | Case: Forest |
-| 38 | Meta | Capri | Classic Black | Grey | Transitions | Standard | 1 | $519.99 | Likely | $519.99 | 20074256 | 0810218420374 | Case: Black; BBY title reads "Classic Black/Grey" |
-| 39 | Meta | Nova | Classic Black | Grey | Polarized | Small | 1 | $449.99 | Tier est. | $449.99 | — | 0810218420428 | Case: Black |
-| 40 | Meta | Nova | Sandstone | Chocolate | Sun | Standard | 2 | $409.99 | Confirmed | $819.98 | 20074258 | 0810218420480 | Case: Mocha |
+| 35 | Meta | Fury | Classic Black | Grey | Transitions | Standard | 2 | $519.99 | Confirmed | $1,039.98 | 20074255 | 0815820029069 | Case: Black |
+| 36 | Meta | Fury | Racing Green | Light Blue Atlantic | Tinted | — | 2 | $409.99 | Confirmed | $819.98 | 19896390 | 0815820029038 | Case: Forest |
+| 37 | Meta | Capri | Classic Black | Grey | Transitions | Standard | 1 | $519.99 | Likely | $519.99 | 20074256 | 0810218420374 | Case: Black; BBY title reads "Classic Black/Grey" |
+| 38 | Meta | Nova | Classic Black | Grey | Polarized | Small | 1 | $449.99 | Tier est. | $449.99 | — | 0810218420428 | Case: Black |
+| 39 | Meta | Nova | Sandstone | Chocolate | Sun | Standard | 2 | $409.99 | Confirmed | $819.98 | 20074258 | 0810218420480 | Case: Mocha |
 
 ---
 
