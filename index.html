@@ -20,6 +20,7 @@
     --demo: #2F5D8A;
     --store: #3B7A3A;
     --ship: #7A4E9A;
+    --acc: #A0612A;
     --danger: #B23A3A;
     box-sizing: border-box;
     padding-top: env(safe-area-inset-top, 0px);
@@ -36,6 +37,7 @@
       --demo: #5E93C8;
       --store: #6DB36B;
       --ship: #B286D4;
+      --acc: #D9965A;
       --danger: #E06A6A;
     }
   }
@@ -284,6 +286,8 @@
           q: "How many customers tried on two or more Meta wearable products?" },
         { id: "demo_rbm2",   short: "RBM 2.0 demos",
           q: "How many total RBM 2.0 demos (where the customer puts the device on to experience WR) did you perform today?" },
+        { id: "demo_rbm3",   short: "RBM 3.0 demos",
+          q: "How many total RBM 3.0 demos (where the customer puts the device on to experience WR) did you perform today?" },
         { id: "demo_hstn",   short: "Oakley HSTN demos",
           q: "How many total Oakley HSTN demos (where the customer puts the device on to experience WR) did you perform today?" },
         { id: "demo_vang",   short: "Oakley Vanguard demos",
@@ -299,6 +303,8 @@
           q: "How many Ray-Ban/Oakley | Meta (US/CA/EMEA/AU) sales did you make in-store today?" },
         { id: "store_rb2",  short: "RayBan 2.0 | Meta",
           q: "How many RayBan 2.0 | Meta (US/CA/EMEA) sales did you make in-store today?" },
+        { id: "store_rb3",  short: "RayBan 3.0 | Meta",
+          q: "How many RayBan 3.0 | Meta (US/CA/EMEA) sales did you make in-store today?" },
         { id: "store_vang", short: "Oakley Vanguard",
           q: "How many Oakley Vanguard (US/CA/EMEA) sales did you make in-store today?" },
         { id: "store_hstn", short: "Oakley HSTN",
@@ -314,12 +320,21 @@
           q: "How many RayBan/Oakley | Meta sales did you make today where the product was sold as ship-to-home/store?" },
         { id: "ship_rb2",  short: "RayBan 2.0 | Meta",
           q: "How many RayBan 2.0 | Meta sales did you make today where the product was sold as ship-to-home/store?" },
+        { id: "ship_rb3",  short: "RayBan 3.0 | Meta",
+          q: "How many RayBan 3.0 | Meta sales did you make today where the product was sold as ship-to-home/store?" },
         { id: "ship_vang", short: "Oakley Vanguard",
           q: "How many Oakley Vanguard sales did you make today where the product was sold as ship-to-home/store?" },
         { id: "ship_hstn", short: "Oakley HSTN",
           q: "How many Oakley HSTN sales did you make today where the product was sold as ship-to-home/store?" },
         { id: "ship_mg",   short: "Meta Glasses",
           q: "How many Meta Glasses [Adventurer | Fury | Starfire] sales did you make today where the product was sold as ship-to-home/store?" }
+      ]
+    },
+    {
+      id: "acc", title: "Accessories", color: "--acc",
+      items: [
+        { id: "acc_1p",  short: "1P wearables accessories (in-store)",
+          q: "How many 1P accessories did you sell in-store for wearables today?" }
       ]
     }
   ];
