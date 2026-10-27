@@ -34,7 +34,7 @@ Checked Oct 16, 2026 ·
 
 | # | Line | Model | Frame | Lens | Lens Type | Size | Qty | Price (CAD) | Price Source | Line Total (CAD) | BBY Web Code | UPC | Notes |
 |---:|---|---|---|---|---|---|---:|---:|---|---:|---|---|---|
-| 12 | Ray-Ban Meta Gen 2 | Wayfarer RW4012 | Matte Black | Clear | Clear | 50 (Standard) | 4 | $519.99 | Confirmed | $2,079.96 | 19462576 | 8056262721391 | $519.99 shelf tag seen in photo |
+| 12 | Ray-Ban Meta Gen 2 | Wayfarer RW4012 | Matte Black | Clear | Clear | 50 (Standard) | 3 | $519.99 | Confirmed | $2,079.96 | 19462576 | 8056262721391 | $519.99 shelf tag seen in photo |
 | 13 | Ray-Ban Meta Gen 2 | Wayfarer RW4012 | Matte Black | Grey | Transitions | 50 (Standard) | 2 | $609.99 | Tier est. | $1,219.98 | 19462587 | 8056262721377 | |
 | 14 | Ray-Ban Meta Gen 2 | Wayfarer RW4012 | Matte Black | Gradient Graphite | Polarized | 53 (Large) | 2 | $559.99 | Tier est. | $1,119.98 | 19808595 | 8056262721421 | BBY title: "Polarized Graphite – Large" |
 | 15 | Ray-Ban Meta Gen 2 | Wayfarer RW4012 | Matte Black | Gradient Graphite | Polarized | 50 (Standard) | 2 | $559.99 | Confirmed | $1,119.98 | 19808596 | 8056262721414 | Made 12/25 and 02/26 |
